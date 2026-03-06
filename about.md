@@ -1,3 +1,5 @@
-layout: page
+layout: page 
 title: "About"
-permalink: /about/
+permalink: /about
+
+Hola 123
