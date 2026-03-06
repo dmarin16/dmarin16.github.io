@@ -1,6 +1,7 @@
 ---
 layout: pages
-title: About Me
+title: About 
+description: Learn about the project 
 ---
 
 My name is 
