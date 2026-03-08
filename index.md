@@ -1,5 +1,6 @@
 ---
 layout: default
+title: International Students Perspective on Mental Health 
 ---
 
 # Goal of the Project  
