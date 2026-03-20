@@ -13,6 +13,8 @@ Psychological frameworks help us understand various mental health disorders that
 
 ## Culture and Mental Health
 Our culture and where we come from mold our understanding of the world. These include how we dress, talk, and how we interact with others.
+![nick-fewings-BAZejJdZ57w-unsplash-2](https://github.com/user-attachments/assets/44f407c2-731f-43d8-aefb-722c23c0965e)
+
 
 ## Positive Experiences/Coping Strategies 
 When studying abroad there's many things that help international students feel proud and connected to their new home. There are also many strategies that help mitigate the mental health issues international students suffer from.
