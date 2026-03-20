@@ -8,9 +8,12 @@ This project will focus on international students' mental health and the challen
 
 ## Mental Health Challenges 
 Psychological frameworks help us understand various mental health disorders that affect international students. As a result we can understand the unique challenges international students go through.
+![greg-rosenke-Y6AZFmN1MGY-unsplash](https://github.com/user-attachments/assets/15ddfc69-e4a9-4abc-8b32-dceb0326769e)
+
 
 ## Culture and Mental Health
 Our culture and where we come from mold our understanding of the world. These include how we dress, talk, and how we interact with others.
 
 ## Positive Experiences/Coping Strategies 
 When studying abroad there's many things that help international students feel proud and connected to their new home. There are also many strategies that help mitigate the mental health issues international students suffer from.
+
