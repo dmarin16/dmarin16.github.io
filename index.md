@@ -19,3 +19,4 @@ Our culture and where we come from mold our understanding of the world. These in
 ## Positive Experiences/Coping Strategies 
 When studying abroad there's many things that help international students feel proud and connected to their new home. There are also many strategies that help mitigate the mental health issues international students suffer from.
 
+<img width="576" height="380" alt="Screenshot 2026-03-22 at 4 00 54 PM" src="https://github.com/user-attachments/assets/03d92ce1-a713-4c84-88e7-110fd01a8ea5" />
