@@ -14,3 +14,14 @@ All of these sources help us understand how culture plays an essential role in s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rtet5twQpec?si=EMrUHlfsYfavswpv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+
+### Bibliography   
+1. Bhugra, Dinesh, Cameron Watson, and Rajiv Wijesuriya. 2021. “Culture and Mental Illnesses.” International Review of Psychiatry 33 (1–2): 1–2. doi:10.1080/09540261.2020.1777748.https://www.tandfonline.com/doi/citedby/10.1080/09540261.2020.1777748?scroll=top&needAccess=true
+2. Clarke, Kathleen. 2023. “International Graduate Students’ Mental Health Diagnoses, Challenges, and Support: A Descriptive Comparison to Their Non-International Graduate Student Peers”. Journal of International Students 13 (3): 280-304. https://doi.org/10.32674/jis.v13i3.3148.
+3. Jude Carroll, and Janette Ryan. 2005. Teaching International Students : Improving Learning for All. Routledge. EBSCOhost. https://ocul-gue.primo.exlibrisgroup.com/permalink/01OCUL_GUE/1gg5hgs/alma9953208469605154  
+4. Ward, Colleen A, Stephen Bochner, and Adrian Furnham. The Psychology of Culture Shock. 2nd ed. Routledge, 2001. https://doi.org/10.4324/9780203992258. 
+5. Wolfradt, Uwe. (2024). Cultural Psychology: Theoretical and Historical Considerations. In: Wolfradt, Uwe, Lars Allolio-Näcke, and Paul Sebastian Ruppel. Cultural Psychology : An Introduction. 1st ed. 2024. Springer Fachmedien Wiesbaden, 2024. https://doi.org/10.1007/978-3-658-45155-4_1 
+6. Oxford English Dictionary, “culture shock (n.),” December 2025, https://doi.org/10.1093/OED/4710072805.
+7. Zukauskas, Rebecca  Sparling. “Culture Shock.” EBSCO, 2024. https://www.ebsco.com/research-starters/communication-and-mass-media/culture-shock.
+8. Burnett, Alison, Andrew Papadopoulos, Jillian Stringer, and Abhinand Thaivalappil. Rep. PRESIDENT’S TASK FORCE ON STUDENT MENTAL HEALTH, 2023. https://api.liveugconthub.uoguelph.dev/sites/default/files/2024-06/student-mental-health-aoda-compliant.pdf. 
