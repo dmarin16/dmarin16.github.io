@@ -12,7 +12,7 @@ Why international students choose Canadian institutions is also important when d
 Finally, one overlooked tool that helps many international students is having a good self-care routine. Wiltshire (2025) identifies steps for a good self-care routine and he emphasizes the importance of exercising. He explains how our physical health is connected to our mental health and that exercising will make it easier to improve both at the same time. He also shows how important digital cleansing can benefit mental health. Many students use their phones before bed and that can lead to bad sleep and that affects our body and mind which makes it harder to complete tasks and be productive.  Other strategies also include eating healthy, nature walks, and reading. These suggestions are from an international student that has used many of these tools to improve their mental health and help others succeed in their journey. 
  
 
-<img width="776" height="313" alt="Screenshot 2026-03-29 at 9 37 48 PM" src="https://github.com/user-attachments/assets/c175ff19-7339-4855-9967-06c3c819d6a9" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYOMeNn952o?si=rG72ukBqmRtssSrr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
