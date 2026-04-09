@@ -33,4 +33,12 @@ The methodologies I used guided how the project was made. The first step was to 
 
 <img width="576" height="380" alt="Screenshot 2026-03-24 at 12 40 55 AM" src="https://github.com/user-attachments/assets/5c9a67e9-dfdd-48f2-9447-078738438644" />
 
+---
+### Bibliography 
+1. Ahmed, Sirwan Khalid, Ribwar Arsalan Mohammed, Abdulqadir J. Nashwan, Radhwan Hussein Ibrahim, Araz Qadir Abdalla, Barzan Mohammed M. Ameen, and Renas Mohammed Khdhir. “Using Thematic Analysis in Qualitative Research.” Journal of Medicine, Surgery, and Public Health 6 (August 2025). https://doi.org/10.1016/j.glmedi.2025.100198.  
+2. Butina , Michelle. “A Narrative Approach to Qualitative Inquiry.” CLINICAL LABORATORY SCIENCE 28, no. 3 (2015). https://clsjournal.ascls.org/content/ascls/28/3/190.full.pdf
+3. Cooper, Robin, and Bruce V Lilyea. “I’m Interested in Autoethnography, but How Do I Do It?” The Qualitative Report, 2022, 197–206. https://doi.org/10.46743/2160-3715/2022.5288.  
+4. Nealon, Michele. “The Pandemic Accelerant: How Covid-19 Advanced Our Mental Health Priorities.” United Nations, October 9, 2021. https://www.un.org/en/un-chronicle/pandemic-accelerant-how-covid-19-advanced-our-mental-health-priorities.  
+5. Reed-Danahay, Deborah. “Autoethnography” The sage dictionary of social research methods. Edited by Victor Jupp. London: Sage Publications, 2006. 
+6. University of Guelph. “President’s Task Force on Student Mental Health Report.” University of Guelph. Accessed December 8, 2025. https://www.uoguelph.ca/president/mental-health-report/. 
 
