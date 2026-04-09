@@ -31,6 +31,6 @@ According to Cooper and Lilyea (2022), autoethnography is a qualitative method t
 #### Process
 The methodologies I used guided how the project was made. The first step was to select certain keywords that would help guide the initial analysis of existing sources. That analysis would be shown in short essays that introduced important themes and made the comparison between quantitative and qualitative methods more evident. The autoethnography part was guided by 6 questions based on each topic. When the essays were completed, many key words appeared. Those keywords were then used to guide the narrative inquiry, data collection, and analysis of Reddit posts. After collecting the data, the stories selected were put in separate documents. Voyant Tools was used to do the text analysis. Voyant showed the most used words, the links between words used, and Voyant created the word cloud and links used for each video essay. Everything was then added to the webpage.  
 
-<img width="887" height="664" alt="Screenshot 2026-03-24 at 12 40 55 AM" src="https://github.com/user-attachments/assets/5c9a67e9-dfdd-48f2-9447-078738438644" />
+<img width="576" height="380" alt="Screenshot 2026-03-24 at 12 40 55 AM" src="https://github.com/user-attachments/assets/5c9a67e9-dfdd-48f2-9447-078738438644" />
 
 
